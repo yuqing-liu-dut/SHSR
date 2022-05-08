@@ -6,6 +6,7 @@ Multi-scale design has been considered in recent image super-resolution (SR) wor
 You can easily train and test our model with the MSRN(https://github.com/MIVRC/MSRN-PyTorch) architecture.
 
 ## Citation
+```
 @article{10.1145/3532864,
     author = {Liu, Yuqing and Zhang, Xinfeng and Wang, Shanshe and Ma, Siwei and Gao, Wen},
     title = {Sequential Hierarchical Learning with Distribution Transformation for Image Super-Resolution},
@@ -13,3 +14,4 @@ You can easily train and test our model with the MSRN(https://github.com/MIVRC/M
     doi = {10.1145/3532864},
     journal = {ACM Trans. Multimedia Comput. Commun. Appl.},
 }
+```
